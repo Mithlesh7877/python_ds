@@ -1,1 +1,1 @@
-# python_ds
+# Implementation of data structures in python
